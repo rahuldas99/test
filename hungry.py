@@ -1,1 +1,2 @@
-print{"Are you Hungry")
+print("Are you Hungry")
+print("Eat Samosa")
